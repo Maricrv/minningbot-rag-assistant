@@ -117,14 +117,9 @@ My role focused on the functional and product aspects rather than technical impl
 
 ## Documentation
 
-Additional documentation is available in the `/docs` folder:
+This repository includes supporting documentation related to the project, such as product presentations, demo materials, and functional notes.
 
-- Business case  
-- Functional requirements  
-- User stories  
-- User flows  
-- High-level architecture  
-- Product presentations (English and Spanish)
+Some documentation is being organized in the `/docs` folder.
 
 ---
 
