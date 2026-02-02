@@ -80,3 +80,10 @@ This repository represents a portfolio and product-definition prototype. It focu
 🔗 https://minningbots.com/
 
 The landing page was created to communicate the solution, its value, deployment options, and pricing during early outreach and demos.
+
+## Demo
+
+A short demo video showing the solution in use, focused on the operational flow rather than technical details.
+
+Demo video:
+[Watch demo](demo/minningbots-demo-en.mp4)
