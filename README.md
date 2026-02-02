@@ -38,6 +38,25 @@ My contribution included:
 
 I did not develop the backend or write the system code. The technical implementation was handled by a teammate.
 
+---
+
+## Project materials (quick access)
+
+This repository focuses on product definition, functional design,
+and validation of an AI-assisted operational solution.
+
+Key materials:
+- Product vision and value proposition  
+  → `docs/product-vision.md`
+- Operational context and use cases  
+  → `docs/project-context.md`
+- Demo scripts and communication materials  
+  → `docs/demos-and-communication.md`
+- Functional testing and evaluation notes  
+  → `docs/testing-and-evaluation.md`
+
+---
+
 ## Why this project matters to me
 This project strongly resonated with my prior experience in large-scale operational environments, where staff rotation and
 process complexity generate a constant flow of questions and incidents.
