@@ -86,4 +86,4 @@ The landing page was created to communicate the solution, its value, deployment 
 A short demo video showing the solution in use, focused on the operational flow rather than technical details.
 
 Demo video:
-[Watch demo](demo/minningbots-demo-en.mp4)
+[Watch demo](demo/MinningBotsVideoEnglish.mp4)
