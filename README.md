@@ -83,7 +83,7 @@ The landing page was created to communicate the solution, its value, deployment 
 
 ## Demo
 
-A short demo video showing the solution in use, focused on the operational flow rather than technical details.
+Short demo video showing the operational flow of the solution.
 
-Demo video:
-https://github.com/Maricrv/minningbot-rag-assistant/blob/main/demo/MinningBotsVideoEnglish.mp4
+▶️ Download / Watch demo (English):
+https://raw.githubusercontent.com/Maricrv/minningbot-rag-assistant/main/demo/MinningBotsVideoEnglish.mp4
