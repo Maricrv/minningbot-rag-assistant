@@ -85,4 +85,4 @@ The landing page was created to communicate the solution, its value, deployment 
 
 Short demo video showing the operational flow of the solution.
 
-[Watch demo](https://drive.google.com/file/d/1-bgOp2LEXo5S6YnFaRFv6auieTI7L5HE/view?usp=drive_link)
+[Watch demo](https://drive.google.com/file/d/1ueFxNdtb5RhpC-8L8_WaVxpeWNFyrbPD/view?usp=sharing)
